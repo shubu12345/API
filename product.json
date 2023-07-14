@@ -1,0 +1,37 @@
+[
+    {
+        "name": "iphone",
+        "price": 40000,
+        "rating": 4
+    },
+    {
+        "name": "samsung",
+        "price": 50000,
+        "rating": 5
+    },
+    {
+        "name": "lg",
+        "price": 30000,
+        "rating": 3
+    },
+    {
+        "name": "iphone12",
+        "price": 80000,
+        "rating": 5
+    },
+    {
+        "name": "samsung-ultra",
+        "price": 120000,
+        "rating": 3
+    },
+    {
+        "name": "iphone14",
+        "price": 140000,
+        "rating": 1
+    },
+    {
+        "name": "moto",
+        "price": 20000,
+        "rating": 4
+    }
+]
